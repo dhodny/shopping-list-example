@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<link rel="stylesheet" type="text/css" href="/shopping-list.css?v1">
+	<link rel="stylesheet" type="text/css" href="shopping-list.css?v1">
 	<title>Výuka test</title>
 </head>
 
@@ -39,7 +39,7 @@
 	<button>Odeslat</button>
 </div>
 
-<script src="/shopping-list.js"></script>
+<script src="shopping-list.js"></script>
 <script>
 	// var itemList = [
 	// 	{ item: 'Hrábě', price: 90, amount: 1 },
